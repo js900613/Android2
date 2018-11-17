@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="word">
+        <item >Apple</item>
+        <item >Tree</item>
+    </string-array>
+
+    <string-array name="mean">
+        <item >사과</item>
+        <item >나무</item>
+    </string-array>
+
+</resources>
