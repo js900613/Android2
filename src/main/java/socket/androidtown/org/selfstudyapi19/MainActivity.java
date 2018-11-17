@@ -74,13 +74,6 @@ public class MainActivity extends AppCompatActivity {
                 /*dbName = "newdatabase";
                 db=openOrCreateDatabase(dbName,MODE_WORLD_WRITEABLE,null);
 */
-                /*ArrayList<EnglishData> list1 = new ArrayList<>();
-                for (int i = 0 ;i < 5; i++){
-                    EnglishData data = new EnglishData();
-                    data.setWord();
-                    data.setMean();
-                    list1.add();
-                }*/
                 Intent intent = new Intent(getApplicationContext(), Sub20Activity.class);
                 startActivityForResult(intent, REQUSET_CODE_MENU);
             }
